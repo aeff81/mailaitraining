@@ -1,3 +1,6 @@
+UNGETESTET!
+
+
 # Anleitung: LoRA-Trainingsdaten aus E-Mails erstellen und ein Modell trainieren
 
 ## Überblick
